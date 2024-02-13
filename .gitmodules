@@ -5,7 +5,3 @@
 [submodule "ale"]
 	path = ale
 	url = https://github.com/tripartio/ale
-[submodule "ggplot2"]
-	path = ggplot2
-	url = https://github.com/tidyverse/ggplot2
-	registered = false
