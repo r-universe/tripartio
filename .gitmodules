@@ -8,3 +8,6 @@
 [submodule "autogam"]
 	path = autogam
 	url = https://github.com/tripartio/autogam
+[submodule "staccuracy"]
+	path = staccuracy
+	url = https://github.com/tripartio/staccuracy
